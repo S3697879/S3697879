@@ -4,26 +4,33 @@ author: "Khoa Tran"
 tag: ["education", "engineering", "leadership"]
 ---
 
-# **Leadership Approaches**
+# **Leadership Theories**
 
 ## **Trait Approaches**
+### **Prominent Leadership Traits**
+1. Intelligence
+2. Self-confidence
+3. Determination
+4. Integrity
+5. Sociability
 
-- This approach focuses exclusively on the leader and their characteristics
-- It defines the traits that leaders exhibit and who has these traits
-- It doesn’t answer what kind of leadership is needed or what leaders should do
+Provide the understands of leadership identity and bennchmarks for leadership development.
 
 ## **Skill Approaches**
-Suggests that skills, knowledge and abilities that are required for a leader to be effective can be learned and developed.
+1. Problem Solving
+2. Knowledge
+3. Social Judgement Perspective talking, Social perceptiveness, Behavioural flexibility, Social performance)
 
-- Top management Technical skill (Low), Human skill (High), Conceptual skill (High)
-
-- Middle management Technical skill (High), Human skill (High), Conceptual skill (High)
-
-- Supervisory managment Technical skill (Low), Human skill (High), Conceptual skill (Low)
-
+Expand definition of leadership, formulate curricular for leadership development.
 ## **Situational Approaches**
 There are different situational leadership approaches:
-- Directing
-- Coaching
-- Delegating
-- Supporting
+1. Directing
+  - High directive + low supportive
+2. Coaching
+  - High directive + high supportive
+3. Supporting
+  - Low directive + high supportive
+4. Delegating
+  - Low directive + low supportive
+
+Prescribe accord leadership style, highly recommend of flexibility, attend of competency and commitment.
