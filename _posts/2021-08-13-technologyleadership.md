@@ -3,6 +3,7 @@ title: "Technology Leadership Week 7 Blog Post"
 author: "Khoa Tran"
 tag: ["education", "engineering", "leadership"]
 ---
+
 # **Leadership Approaches**
 
 ## **Trait Approaches**
